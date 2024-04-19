@@ -19,7 +19,7 @@ Welcome to my coding journey, which basically started back in 2020! I'm passiona
 - When I'm not coding, you can find me engaging in retail therapy or trying out new baking recipes. 🍰
 
 ## 📫 Let's Connect!
-👉 LinkedIn: [Manoswita]https://www.linkedin.com/in/manoswita-bose-467061244/)  
+👉 LinkedIn: [Manoswita](https://www.linkedin.com/in/manoswita-bose-467061244/)  
 ✉️ Email: manoswita.bose@gmail.com  
 
 ## 💬 Get in Touch
