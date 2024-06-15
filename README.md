@@ -5,10 +5,10 @@
 Welcome to my coding journey, which basically started back in 2020! I'm passionate about diving into data, crunching numbers, and uncovering hidden insights. Here's a sneak peek into my world:
 
 ## 🔭 Current Focus
-🌱 Exploring machine learning algorithms for predictive analytics  
-📈 Analyzing trends in real-world datasets to uncover hidden patterns 
-📊 Creating visually appealing data visualizations
-📚 Always curious and constantly updating my knowledge with the latest research and technologies.
+- 🌱 Exploring machine learning algorithms for predictive analytics 
+- 📈 Analyzing trends in real-world datasets to uncover hidden patterns 
+- 📊 Creating visually appealing data visualizations
+- 📚 Always curious and constantly updating my knowledge with the latest research and technologies.
 
 ## 💼 Areas of Interest
 - Data Science: Exploratory Data Analysis (EDA), Data Visualization, Predictive Analytics
